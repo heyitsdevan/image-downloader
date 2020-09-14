@@ -1,8 +1,8 @@
 # image-downloader
-# Downloads an image
-# Need the URL of the image
-# Uses ThreadPoolExecutor() for faster download speeds
-# You can enter multiple URLs to download
+### Downloads an image
+### Need the URL of the image
+### Uses ThreadPoolExecutor() for faster download speeds
+### You can enter multiple URLs to download
 
 # Example
 img_urls = [
