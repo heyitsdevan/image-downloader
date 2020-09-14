@@ -1,8 +1,9 @@
-# image-downloader
-### Downloads an image
-### Need the URL of the image
-### Uses ThreadPoolExecutor() for faster download speeds
-### You can enter multiple URLs to download
+# Image-downloader
+
+#### Downloads an image
+#### Need the URL of the image
+#### Uses ThreadPoolExecutor() for faster download speeds
+#### You can enter multiple URLs to download
 
 ###### img_urls = [
     'https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99',
